@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour à tous,
+
+Je rassemble ici mes travaux liés à mes ouvrages sur python et d'autres sujets.
+
+N'hésitez pas à me contacter !
 
 <!--
 **emjako/emjako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
